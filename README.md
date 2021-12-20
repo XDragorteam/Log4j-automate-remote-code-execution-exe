@@ -26,4 +26,4 @@ copy the entire server.
 CVE-2021-44228.exe is detected by antivirus due to reverse shell!
 
 
-good hacking by DragonTeam
+good hacking by DragorTeam
