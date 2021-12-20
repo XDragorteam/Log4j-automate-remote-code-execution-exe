@@ -1,4 +1,4 @@
-# Log4j-automate-remote-code-execution-exe
+Log4j automate remote code execution exe
 
 this Windows program allows automatic exploitation of the log4j (CVE-2021-44228) vulnerability. 
 
